@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 
-
 #################################################################
 ##                                                             ##
 ## Website Forger                   v1.0 on BETA (Development) ##
