@@ -23,4 +23,3 @@ Website:  https://www.thehiddenbyte.com
 ## 0.0.1 (Alpha)
 
 + Started development
-
