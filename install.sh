@@ -11,7 +11,7 @@ while true; do
   if [ "$EXISTS" == "y" ]; then
     break
   elif [ "$EXISTS" == "n" ]; then
-    ./ngrok authtoken 1Wxj5KuPExFLwdtvYF0KPUgPVgb_6qXeckNfuKY2CL8Z5uxyr
+    ./ngrok authtoken 1jfJy5rqJ78yO5cyT413WF5OPSl_7Ng4UzzJ5Uvwm3cfQkfDQ
     break
   fi
 done
