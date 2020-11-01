@@ -1,5 +1,5 @@
 <?php
-// define variables and set to empty values
+// Define variables and set to empty values
 $nameErr = $error_css = $errortext = $error3 = $error4 = $error1 = $error2 = "";
 
 
