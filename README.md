@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/thehiddenbyte/Website-Forger/main/images/logo.png" align="middle"></img>
+<p align="center"><img src="https://raw.githubusercontent.com/thehiddenbyte/Website-Forger/main/images/logo.png" align="middle"></img></p>
+
 
 # Website Forger
 
